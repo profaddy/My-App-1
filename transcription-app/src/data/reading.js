@@ -1,0 +1,17 @@
+export default {
+  BALL  : ['boss, bahk, bull', 'toy, throw', null, 'baw'],
+  BOOK  : ['took, buht, back', 'paper, read', 'story', null],
+  ROAD  : ['roll, rode, raid', 'street, drive', 'car', 'wilode'],
+  DOOR  : ['doe, dure, dare', 'gate, open', 'lock', null],
+  LEAF  : ['leap, keef, loaf', 'grass, grow', 'fall', 'wheef'],
+  CANE  : ['cake, tane, cone', 'crutch, walk', null, null],
+  DEER  : ['deep, steer, theer', 'horse, santa', 'antlers', null],
+  ROPE  : ['rote, roke, ripe', 'string, climb', null, null],
+  SPEAK : ['speech, speam, spike', 'talk, mouth', null, 'zhpeak'],
+  CUT   : ['cup, shut, cat', 'slice, knife', null, 'ncut'],
+  KICK  : ['kit, kuck, kip', 'boot, football', null, null],
+  SHAVE : ['shove, save, shape', 'scrape, razor, soap', null, 'zhave'],
+  PRAY  : ['cray, prow', 'bless, church', null, null],
+  HANG  : ['hat, bank', 'swing, clothes', null, null],
+  SHOOT : ['soup, shoe', 'kill, gun', null, 'zjoot'],
+}

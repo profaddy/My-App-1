@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 24 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-participant-page-need-signature" transform="translate(-1360.000000, -203.000000)" stroke="#A6B3B9">
+            <g id="Group-24-Copy-2" transform="translate(1360.000000, 203.000000)">
+                <g id="Group-24-Copy">
+                    <rect id="Rectangle-14-Copy-26" fill="#FFFFFF" x="0.5" y="0.5" width="32" height="32" rx="1.78378378"></rect>
+                    <g id="Group-19" transform="translate(9.500000, 9.500000)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                        <path d="M7,7 L7,10.9973924" id="Stroke-97"></path>
+                        <path d="M4,8 L4,10.9980443" id="Stroke-98"></path>
+                        <path d="M10,8 L10,10.9980443" id="Stroke-99"></path>
+                        <path d="M13,4 L13,12.994133 C13,13.5457731 12.552,13.9934811 12,13.9934811 L2,13.9934811 C1.448,13.9934811 1,13.5457731 1,12.994133 L1,4" id="Stroke-100"></path>
+                        <path d="M0,3 L14,3" id="Stroke-101"></path>
+                        <path d="M4,2.99804433 L4,0.99934811 C4,0.447707953 4.448,0 5,0 L9,0 C9.552,0 10,0.447707953 10,0.99934811 L10,2.99804433" id="Stroke-102"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

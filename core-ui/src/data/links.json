@@ -1,0 +1,62 @@
+[
+  {
+    "to": "/",
+    "icon": "dashboard.svg",
+    "title": "Dashboard",
+    "exact": true
+  },
+  {
+    "to": "/subjects",
+    "icon": "subjects.svg",
+    "title": "My Subjects",
+    "nested": [
+      {
+        "to": "/complete",
+        "title": "Complete entries (2)",
+        "nested": [
+          {
+            "to": "/348210",
+            "title": "Subject: 348210"
+          },
+          {
+            "to": "/348212",
+            "title": "Subject: 348212"
+          }
+        ]
+      },
+      {
+        "to": "/incomplete",
+        "title": "Incomplete entries (2)",
+        "nested": [
+          {
+            "to": "/348214",
+            "title": "Subject: 348214"
+          },
+          {
+            "to": "/348216",
+            "title": "Subject: 348216"
+          },
+          {
+            "to": "/348218",
+            "title": "Subject: 348218"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "to": "/settings",
+    "icon": "settings.svg",
+    "title": "Settings",
+    "nested": [
+      {
+        "to": "/notifications",
+        "title": "Notifications"
+      },
+      {
+        "to": "/account",
+        "title": "Account"
+      }
+    ]
+  }
+]

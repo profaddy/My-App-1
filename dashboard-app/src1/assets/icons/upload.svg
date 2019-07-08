@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 22</title>
+    <desc>Created with Sketch.</desc>
+    <g id="dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Recruiters-popup" transform="translate(-1156.000000, -286.000000)">
+            <g id="Group-22" transform="translate(1156.000000, 286.000000)">
+                <rect id="Rectangle-14-Copy-26" stroke="#A6B3B9" fill="#FFFFFF" x="0.5" y="0.5" width="32" height="32" rx="1.78378378"></rect>
+                <g id="Group-20" transform="translate(7.000000, 8.000000)">
+                    <polygon id="Page-1" fill="#345CF6" transform="translate(9.500000, 5.500000) scale(1, -1) translate(-9.500000, -5.500000) " points="7.38234672 -3.24492522e-13 7.38234672 5.49446278 4 5.49446278 7.67080599 9.14850975 7.64027846 9.17890005 9.46960183 11 9.50012935 10.9696097 9.53039817 11 11.3599802 9.17890005 11.3294527 9.14850975 15 5.49446278 11.6052353 5.49446278 11.6052353 -3.24492522e-13"></polygon>
+                    <polyline id="Path-5" stroke="#345CF6" stroke-linecap="round" fill-rule="nonzero" points="0.817382812 8.69140625 0.817382812 15.1655273 18.6416016 15.1655273 18.6416016 8.69140625"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
